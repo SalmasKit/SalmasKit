@@ -67,13 +67,6 @@ A sub-second analytical data pipeline for real-time inventory tracking.
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalmasKit&show_icons=true&theme=dark&hide_border=true" alt="Salma's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmasKit&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ### 📫 Connect with Me
 - **LinkedIn**: [salma-barrak](https://www.linkedin.com/in/salma-barrak)
