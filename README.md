@@ -20,14 +20,16 @@
 
 ---
 
-### 🚀 Status: Seeking a PFA Internship
-> **Currently looking for a 1, 2, or 3-month PFA Internship starting July 1st, 2026.**  
-> *Target Roles: Full-Stack Developer, AI/ML Engineer, Backend Developer.*
+### 🚀 Status: Seeking a PFE Internship
+> **Currently looking for a 6-month PFE (Projet de Fin d'Études) Internship starting January 2027.**  
+> *Target Roles: Full-Stack Software Engineer, AI/ML Engineer, Backend Developer.*
 
 ---
 
 ### 📖 About Me
-I write code the way I like to solve problems — patiently, thoughtfully, and with care. Whether it's making something work behind the scenes or making it feel simple on the outside, I put my heart into every part of the process. I'm serious about what I build, focused on getting things done, and always excited to learn something new. AI is one of those things that quietly amazes me, and I'm happily exploring where it takes me.
+Software is my craft, and problem-solving is my default mode. As an engineering student, I don't just write code that works—I build software designed to scale, endure, and make an impact. My sweet spot lies at the intersection of robust backend architecture and intelligent application development, where seamless user experiences meet real-world AI integration.
+
+I love bringing software to life by embedding smart capabilities directly into production-ready apps. Beyond the application layer, I am deeply fascinated by the DevOps ecosystem: containerizing workloads, automating deployment pipelines, and ensuring systems run reliably behind the scenes. Driven by a relentless curiosity, I am always exploring how modern infrastructure and intelligent software come together to build future-proof solutions.
 
 ---
 
@@ -41,32 +43,8 @@ I write code the way I like to solve problems — patiently, thoughtfully, and w
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) |
 | **Infrastructure** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white) |
 
----
-
-### 🏆 Featured Engineering Feats
-
-#### 🔹 [Jira Clone Pro](https://gitlab.com/formations2026/gera-back)
-A high-integrity project management backend designed to mirror enterprise-grade Agile tools.
-- **Tech**: Spring Boot 3, PostgreSQL, JUnit, Mockito.
-- **Highlight**: 90%+ test coverage and HATEOAS-compliant API design.
-
-#### 🔹 [Chatbot-mso - Gov Assistant](https://gitlab.com/chatbot-mso/Chatbot-mso)
-A trilingual RAG-powered chatbot for Moroccan administrative procedures.
-- **Tech**: FastAPI, Vite, Hugging Face LLMs, Tesseract OCR, Vector DB.
-- **Highlight**: Multilingual support (Arabic, French, Darija) with image OCR.
-
-#### 🔹 [Soukify - Marketplace](https://github.com/SalmasKit/SoukifyApp)
-A mobile application bridging the gap between Moroccan artisans and consumers.
-- **Tech**: Android SDK (Java), Firebase, MVVM, OpenStreetMap.
-- **Highlight**: Real-time chat and proximity-based artisan discovery.
-
-#### 🔹 [Stockify - Inventory Hub](https://github.com/SalmasKit/StockifyApp)
-A sub-second analytical data pipeline for real-time inventory tracking.
-- **Tech**: Symfony 7, Doctrine, TailwindCSS.
-- **Highlight**: Automated low-stock alerts and transaction auditing.
 
 ---
-
 
 ### 📫 Connect with Me
 - **LinkedIn**: [salma-barrak](https://www.linkedin.com/in/salma-barrak)
