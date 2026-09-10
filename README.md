@@ -22,7 +22,7 @@
 
 ### 🚀 Status: Seeking a PFE Internship
 > **Currently looking for a 6-month PFE (Projet de Fin d'Études) Internship starting January 2027.**  
-> *Target Roles: Full-Stack Software Engineer, AI/ML Engineer, Backend Developer.*
+> *Target Roles: Full-Stack Software Engineer, AI Integration Engineer, Software & DevOps Engineer.*
 
 ---
 
