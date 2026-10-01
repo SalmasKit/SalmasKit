@@ -4,9 +4,22 @@
 
 ### Software Engineering Student @ ENSA Oujda · Full-Stack Developer · AI & DevOps
 
-[LinkedIn](https://www.linkedin.com/in/salma-barrak) ·
-[Portfolio](https://salmaskit.github.io/MyPortfolio/) ·
-[Email](mailto:salmabarrak26@gmail.com)
+<div align="center">
+
+<a href="https://www.linkedin.com/in/salma-barrak">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="24" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://salmaskit.github.io/MyPortfolio/">
+  <img src="https://cdn.simpleicons.org/googlechrome/4F46E5" width="24" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:salmabarrak26@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="24" alt="Email"/>
+</a>
+
+</div>
+
 
 <img src="https://komarev.com/ghpvc/?username=SalmasKit&label=Profile%20Views&color=4F46E5&style=flat-square" alt="Profile Views"/>
 
