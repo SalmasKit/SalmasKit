@@ -1,58 +1,188 @@
-# 👋 Hi, I'm Salma Barrak!
+# 👋 Hi, I'm Salma Barrak
 
 <p align="center">
   <img src="https://github.com/SalmasKit.png" width="150" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SalmasKit&label=Profile%20Views&color=0077B5&style=flat-square" alt="SalmasKit" />
+  <strong>Software Engineering Student @ ENSA Oujda | Full-Stack Developer | AI & DevOps</strong>
 </p>
 
 <p align="center">
-  <strong>Software Engineering Student @ ENSA Oujda | AI Enthusiast</strong>
+  <a href="https://www.linkedin.com/in/salma-barrak">
+    <img src="https://img.shields.io/badge/LinkedIn-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:salmabarrak26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-4f46e5?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://salmaskit.github.io/MyPortfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-4f46e5?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 Currently Looking For
+
+**A 6-month PFE internship starting January 2027.**
+
+Interested in opportunities related to:
+
+* Full-Stack Software Engineering
+* AI-powered Application Development
+* Software Engineering & DevOps
+
+---
+
+## 👩‍💻 About Me
+
+I design and build reliable backends and AI-powered products.
+
+I'm an engineering student at ENSA Oujda, focused on software engineering and modern full-stack development. I enjoy turning ideas into complete applications, from backend architecture and APIs to responsive interfaces and intelligent features.
+
+My recent work combines **Java, Spring Boot, React, Python, FastAPI, PostgreSQL, Docker, and AI technologies**. I'm particularly interested in how AI can be integrated into real software products rather than existing as a standalone model.
+
+I also enjoy working on software quality, testing, containerization, automation, and the engineering practices that make applications reliable and maintainable.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-4f46e5?style=flat\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4f46e5?style=flat\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-4f46e5?style=flat\&logo=javascript\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-4f46e5?style=flat\&logo=php\&logoColor=white)
+![C](https://img.shields.io/badge/C-4f46e5?style=flat\&logo=c\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-4f46e5?style=flat\&logo=csharp\&logoColor=white)
+
+### Frameworks & Libraries
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-4f46e5?style=flat\&logo=springboot\&logoColor=white)
+![React](https://img.shields.io/badge/React-4f46e5?style=flat\&logo=react\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-4f46e5?style=flat\&logo=fastapi\&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-4f46e5?style=flat\&logo=symfony\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4f46e5?style=flat)
+![FastMCP](https://img.shields.io/badge/FastMCP-4f46e5?style=flat)
+![Vite](https://img.shields.io/badge/Vite-4f46e5?style=flat\&logo=vite\&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4f46e5?style=flat\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4f46e5?style=flat\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-4f46e5?style=flat\&logo=sqlite\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-4f46e5?style=flat\&logo=firebase\&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4f46e5?style=flat)
+
+### AI & Intelligent Applications
+
+![Generative AI](https://img.shields.io/badge/Generative_AI-4f46e5?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-4f46e5?style=flat)
+![FastMCP](https://img.shields.io/badge/MCP-4f46e5?style=flat)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-4f46e5?style=flat\&logo=huggingface\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--learn-4f46e5?style=flat\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-4f46e5?style=flat\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4f46e5?style=flat\&logo=numpy\&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-4f46e5?style=flat\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-4f46e5?style=flat\&logo=linux\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-4f46e5?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-4f46e5?style=flat\&logo=github\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-4f46e5?style=flat\&logo=gitlab\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-4f46e5?style=flat\&logo=postman\&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-4f46e5?style=flat\&logo=junit5\&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-4f46e5?style=flat)
+![SonarQube](https://img.shields.io/badge/SonarQube-4f46e5?style=flat\&logo=sonarqube\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-4f46e5?style=flat\&logo=jira\&logoColor=white)
+
+---
+
+## ⭐ Featured Projects
+
+### Targetalent · AI Talent Sourcing
+
+AI-powered talent sourcing platform that transforms natural-language recruitment requests into ranked and enriched candidate shortlists.
+
+**Stack:** React 19 · Spring Boot · FastAPI · LangGraph · MCP · PostgreSQL · pgvector
+
+[View Repository](https://github.com/SalmasKit/sourcing-agent-digitalia)
+
+---
+
+### AfriqAI · Feedback Analyzer
+
+AI module developed for the AfriqAI ecosystem, combining a FastAPI microservice with Spring Boot application maintenance and generative AI capabilities.
+
+**Stack:** Spring Boot · FastAPI · Generative AI
+
+[View Repository](https://gitlab.com/pfa353013)
+
+---
+
+### Jira Clone · Task Management
+
+Task management application focused on REST API design, backend reliability, testing, and PostgreSQL architecture.
+
+**Stack:** Spring Boot · React · PostgreSQL · JUnit · Mockito
+
+[View Repository](https://gitlab.com/formations2026/gera-back)
+
+---
+
+### Stockify · Inventory Hub
+
+Inventory management platform designed around real-time stock monitoring and automated alerts.
+
+**Stack:** Symfony 7 · PHP 8.2 · MySQL · Doctrine
+
+[View Repository](https://github.com/SalmasKit/StockifyApp)
+
+---
+
+### Financial Analysis Terminal · AI Assistant
+
+AI-powered financial analysis application for processing Moroccan PCGE financial statements and providing an interactive financial assistant.
+
+**Stack:** FastAPI · React · Tailwind CSS · Claude · pdfplumber
+
+[View Repository](https://github.com/SalmasKit/cdgc-financial-assistant)
+
+---
+
+### Chatbot MSO · Gov Assistant
+
+Multilingual AI chatbot answering questions about Moroccan administrative procedures in Arabic, French, and Darija.
+
+**Stack:** FastAPI · Vite · Hugging Face · Vector Database · Tesseract OCR · Docker
+
+[View Repository](https://gitlab.com/chatbot-mso/Chatbot-mso)
+
+---
+
+## 📊 A Few Numbers
+
+* **12+** Engineering Projects
+* **15+** Tools & Technologies
+* **9** Certifications
+* **2** Professional Internships
+
+---
+
+## 📫 Let's Connect
+
+* **LinkedIn:** [salma-barrak](https://www.linkedin.com/in/salma-barrak)
+* **Portfolio:** [salmaskit.github.io/MyPortfolio](https://salmaskit.github.io/MyPortfolio/)
+* **Email:** [salmabarrak26@gmail.com](mailto:salmabarrak26@gmail.com)
+
+---
+
+<p align="center">
+  <em>وَمَا تَوْفِيقِي إِلَّا بِاللَّهِ</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/salma-barrak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:salmabarrak26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://salmaskit.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</p>
-
----
-
-### 🚀 Status: Seeking a PFE Internship
-> **Currently looking for a 6-month PFE (Projet de Fin d'Études) Internship starting January 2027.**  
-> *Target Roles: Full-Stack Software Engineer, AI Integration Engineer, Software & DevOps Engineer.*
-
----
-
-### 📖 About Me
-Software is my craft, and problem-solving is my default mode. As an engineering student, I don't just write code that works—I build software designed to scale, endure, and make an impact. My sweet spot lies at the intersection of robust backend architecture and intelligent application development, where seamless user experiences meet real-world AI integration.
-
-I love bringing software to life by embedding smart capabilities directly into production-ready apps. Beyond the application layer, I am deeply fascinated by the DevOps ecosystem: containerizing workloads, automating deployment pipelines, and ensuring systems run reliably behind the scenes. Driven by a relentless curiosity, I am always exploring how modern infrastructure and intelligent software come together to build future-proof solutions.
-
----
-
-### 🛠️ My Engineering Kit
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) |
-| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) |
-| **AI & Data** | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=google-cloud&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-6366f1?style=flat) ![Computer Vision](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) |
-| **Infrastructure** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white) |
-
-
----
-
-### 📫 Connect with Me
-- **LinkedIn**: [salma-barrak](https://www.linkedin.com/in/salma-barrak)
-- **Portfolio**: [salmaskit.github.io/MyPortfolio](https://salmaskit.github.io/MyPortfolio/)
-- **Email**: [salmabarrak26@gmail.com](mailto:salmabarrak26@gmail.com)
-
----
-
-<p align="center">
-  <em>"And my success can only come from Allah."</em>
+  © 2026 Salma Barrak · Learning every day. Building with purpose.
 </p>
