@@ -4,17 +4,9 @@
 
 ### Software Engineering Student @ ENSA Oujda · Full-Stack Developer · AI & DevOps
 
-<p>
-  <a href="https://www.linkedin.com/in/salma-barrak">
-    <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:salmabarrak26@gmail.com">
-    <img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://salmaskit.github.io/MyPortfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/salma-barrak) ·
+[Portfolio](https://salmaskit.github.io/MyPortfolio/) ·
+[Email](mailto:salmabarrak26@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=SalmasKit&label=Profile%20Views&color=4F46E5&style=flat-square" alt="Profile Views"/>
 
@@ -95,8 +87,6 @@ I'm particularly interested in integrating **LLMs and AI agents into real-world 
 <td><b>AI Engineering</b></td>
 <td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
-&nbsp;
 <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="42" title="LangGraph"/>
 &nbsp;
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="42" title="Hugging Face"/>
@@ -109,7 +99,7 @@ I'm particularly interested in integrating **LLMs and AI agents into real-world 
 </tr>
 
 <tr>
-<td><b>AI & Data Infrastructure</b></td>
+<td><b>Data & Storage</b></td>
 <td>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL"/>
@@ -117,15 +107,6 @@ I'm particularly interested in integrating **LLMs and AI agents into real-world 
 <br><br>
 
 <b>pgvector</b> · <b>Vector Search</b> · <b>Semantic Similarity</b> · <b>Embeddings</b>
-
-</td>
-</tr>
-
-<tr>
-<td><b>AI Tools & APIs</b></td>
-<td>
-
-<b>FastMCP</b> · <b>SerpAPI</b> · <b>Apollo.io</b> · <b>Groq</b> · <b>Hugging Face</b>
 
 </td>
 </tr>
@@ -178,8 +159,6 @@ An intelligent recruitment platform that transforms natural-language hiring requ
 
 * 🧠 **LangGraph** agent workflow
 * 🔌 **MCP / FastMCP** tools
-* 🔎 **SerpAPI** for profile sourcing
-* 👤 **Apollo.io** for candidate enrichment
 * 🧬 **Embeddings + pgvector** for semantic similarity
 * 📊 Candidate scoring and ranking
 * 🔐 JWT authentication and role-based access
@@ -302,7 +281,6 @@ A multilingual AI chatbot designed to answer questions about **Moroccan administ
 * 🔎 **RAG-based question answering**
 * 🧠 Semantic retrieval
 * 📚 Vector database
-* 🤗 Hugging Face models
 * 🐳 Dockerized architecture
 
 </td>
@@ -333,7 +311,7 @@ Using embeddings and vector databases such as **pgvector** to support semantic s
 
 ### 🤖 LLM Integration
 
-Integrating LLMs into applications through APIs and AI services, including **Groq, Hugging Face and Claude**.
+Integrating LLMs into applications through APIs and AI services.
 
 ---
 
@@ -372,22 +350,6 @@ Security and quality are part of my development workflow.
 
 ---
 
-# 📊 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/SalmasKit">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SalmasKit&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&icon_color=4F46E5&text_color=0D1326&ring_color=4F46E5" />
-</a>
-
-<a href="https://github.com/SalmasKit">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalmasKit&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&text_color=0D1326" />
-</a>
-
-</div>
-
----
-
 # 📫 Let's Connect
 
 <div align="center">
@@ -398,17 +360,9 @@ I'm currently looking for a **6-month PFE internship starting January 2027**, wi
 
 <br>
 
-<a href="https://www.linkedin.com/in/salma-barrak">
-  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://salmaskit.github.io/MyPortfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="mailto:salmabarrak26@gmail.com">
-  <img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[LinkedIn](https://www.linkedin.com/in/salma-barrak) ·
+[Portfolio](https://salmaskit.github.io/MyPortfolio/) ·
+[Email](mailto:salmabarrak26@gmail.com)
 
 <br><br>
 
